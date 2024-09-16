@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nome": "Maçã",
+    "descricao": "Maça do amor",
+    "preco": 2.5,
+    "quantidade": 20
+  },
+  {
+    "id": 2,
+    "nome": "Banana",
+    "descricao": "Nanica",
+    "preco": 1.5,
+    "quantidade": 30
+  },
+  {
+    "id": 1726526490,
+    "nome": "teste",
+    "descricao": "melhor teste",
+    "preco": 50.0,
+    "quantidade": 50
+  }
+]
